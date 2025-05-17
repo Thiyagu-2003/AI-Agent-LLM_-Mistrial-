@@ -37,7 +37,7 @@ All functionalities are available in both **CLI** and **Streamlit UI** modes.
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-agent-suite.git
+[git clone https://github.com/Thiyagu-2003/AI-Agent-LLM_-Mistrial-.git]
 cd ai-agent-suite
 ```
 
