@@ -147,29 +147,23 @@ Each bot uses Mistral through the Ollama API. The prompts are carefully engineer
 ## 📁 Directory Structure
 
 ```
-ai-agent-suite/
+AI AGENT COURSE/
 │
-├── bots/
-│   ├── conversation_bot.py
-│   ├── voice_assistant.py
-│   ├── web_scraper.py
-│   └── qa_doc_reader.py
+├── Q&A agent/
+│   └── ai_document_reader.py
 │
-├── ui/
-│   ├── conversation_ui.py
-│   ├── voice_ui.py
-│   ├── web_scraper_ui.py
-│   └── qa_doc_ui.py
+├── text agent/
+│   ├── basic_ai_agent.py
+│   └── first_agent.py
 │
-├── utils/
-│   ├── ollama_utils.py
-│   ├── voice_utils.py
-│   └── scraper_utils.py
+├── voice asistant/
+│   ├── ai_voice_assistant_ui.py
+│   └── ai_voice_assistant.py
 │
-├── assets/
-│   └── sample.pdf
+├── web scraper/
+│   ├── ai_web_scraper.py
+│   └── ai_web_scrapper_faiss.py
 │
-├── requirements.txt
 └── README.md
 ```
 
